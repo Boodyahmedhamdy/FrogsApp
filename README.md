@@ -4,7 +4,7 @@ http requests using **Retrofit** and **Coil** for image handling
 
 ## Preview
 ### Main Screen
-<img src="media/main-screen.png" width="400" height="400"/>
+<img src="media/main-screen.png"/>
 
 ### Loading Animation
-<img src="media/loading-animation.png" width="400" height="400"/>
+<img src="media/loading-animation.png"/>
