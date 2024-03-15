@@ -1,3 +1,5 @@
+<img src='media/Frogs App.png' />
+
 # FrogsApp
 simple Android app built with kotlin and jetpack compose to perform 
 http requests using **Retrofit** and **Coil** for image handling
